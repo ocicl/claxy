@@ -1,0 +1,10 @@
+* claxy
+
+Simple proxy middleware for clack
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/BnMcGn/claxy.git   |
+| commit  | 1667185  |
+| systems | claxy |
+|---------+-------------------------------------------|
+
